@@ -6,7 +6,7 @@
   </a>
 </p>
 <br/>
-<h3 align="center">Video Quality assessment - output above from published model</h3>
+<h3 align="center">Disentangled Objective Video Quality Evaluator (DOVER) - output above from published model</h3>
 <br/>
 <br/>
 
