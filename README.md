@@ -13,7 +13,7 @@
 ### Table of contents
 
 - [Original repo](#the-disentangled-objective-video-quality-evaluator )
-- [Google Colab link](https://colab.research.google.com/github/taskswithcode/InSPyReNet/blob/master/TWCDOVER.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb)
+- [Google Colab link](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taskswithcode/DOVER/blob/master/TWCDOVER.ipynb)
 
 
 # The Disentangled Objective Video Quality Evaluator
