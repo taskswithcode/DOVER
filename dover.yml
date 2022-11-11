@@ -185,7 +185,7 @@ optimizer:
     backbone_lr_mult: !!float 1e-1
     wd: 0.05
         
-test_load_path: ./pretrained_weights/DOVER.pth
+test_load_path: ./twc_models/DOVER.pth
 
     
         
