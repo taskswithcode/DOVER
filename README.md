@@ -7,6 +7,7 @@
 </p>
 <br/>
 <h3 align="center">Disentangled Objective Video Quality Evaluator (DOVER) - output above from published model</h3>
+<h6 align="center"><a href="https://www.pexels.com/search/videos/dog%20running/">Video above is from Pexels</a></h6>
 <br/>
 <br/>
 
